@@ -1,7 +1,7 @@
 # Arithmetic Logic Unit
 
 ## Description:
-This arithmetic logic unit(ALU) is based on the The Elements of Computing Systems book [chapter 2](https://www.nand2tetris.org/project02). This ALU is built in circuit simulator [CircuitVerse](https://circuitverse.org/). It takes two 16-bit inputs and performs the operations mentioned in the truth table, attached with this project. This project starts from fundamental logic gates and finishes at ALU.
+This arithmetic logic unit(ALU) is based on The Elements of Computing Systems book [chapter 2](https://www.nand2tetris.org/project02). This ALU is built in circuit simulator [CircuitVerse](https://circuitverse.org/). It takes two 16-bit inputs and performs the operations mentioned in the truth table, attached with this project. This project starts from fundamental logic gates and finishes at ALU.
 
 ## How to run:
 
