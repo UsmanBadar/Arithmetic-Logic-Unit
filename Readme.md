@@ -10,7 +10,7 @@ This arithmetic logic unit(ALU) is based on the The Elements of Computing System
 2: Launch simulator and then select project and then select import file to upload the file.
 
 ### Input:
-Two 16-bit inputs with 8 instruction bits which should be set according to the truth table to respective operations.
+Two 16-bit inputs with 8 instruction bits which should be set according to the truth table to perform respective operations.
 
 ### Output:
 Output is a 16-bit and 3 flags to indicate carry, negative and zero output.
